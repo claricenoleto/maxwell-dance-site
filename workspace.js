@@ -367,7 +367,7 @@ parcelRequire = (function (e, r, t, n) {
                   (e.sprites = { ditto: o }), e.main();
                 }),
                 (i.src =
-                  "https://media.discordapp.net/attachments/944773581324304414/1116591578472005753/download1.png?ex=69691c31&is=6967cab1&hm=4120d5204dd28c9fa0bf0278879533d8b08c89285cf3b7cf5433e2d52a46ac16&=&format=webp&quality=lossless"),
+                  "https://ibb.co/WNxDBLqT"),
                 e
               );
             }
