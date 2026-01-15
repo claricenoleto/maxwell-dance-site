@@ -367,7 +367,7 @@ parcelRequire = (function (e, r, t, n) {
                   (e.sprites = { ditto: o }), e.main();
                 }),
                 (i.src =
-                  "https://ibb.co/WNxDBLqT"),
+                  "https://i.ibb.co/gbjvtxHn/download1.png"),
                 e
               );
             }
